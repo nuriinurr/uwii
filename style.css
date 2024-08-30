@@ -147,8 +147,13 @@ header {
     border: none;
     background: transparent;
     outline: none;
+} 
+#menu-icon {
+    position: fixed; 
+    top: 10px; 
+    right: 10px; 
+    z-index: 1000; 
 }
-
 .navbar-toggler-icon::before {
     content: "\f0c9"; 
     font-family: "Boxicons";
