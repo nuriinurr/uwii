@@ -300,6 +300,14 @@ header {
         padding: 8px 15px; 
         font-size: 12px; 
     }
+        .image {
+        margin-top: 50px;
+        width: 500px;
+    }
+
+    .image img {
+        max-width: 70%; 
+    }
 }
 
 .layanan {
